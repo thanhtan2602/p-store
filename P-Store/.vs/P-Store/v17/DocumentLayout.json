@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SOURCE-CODE\\p-store\\P-Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35AA7DE-B950-4E78-A335-DD3E74F92419}|Store.Application\\Store.Application.csproj|c:\\source-code\\p-store\\p-store\\store.application\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35AA7DE-B950-4E78-A335-DD3E74F92419}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35AA7DE-B950-4E78-A335-DD3E74F92419}|Store.Application\\Store.Application.csproj|c:\\source-code\\p-store\\p-store\\store.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35AA7DE-B950-4E78-A335-DD3E74F92419}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC2DB2D-F291-4877-BAD5-EE51CC4FB053}|Store.Infrastructure\\Store.Infrastructure.csproj|c:\\source-code\\p-store\\p-store\\store.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC2DB2D-F291-4877-BAD5-EE51CC4FB053}|Store.Infrastructure\\Store.Infrastructure.csproj|solutionrelative:store.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81D2E4B-E920-474A-A8C0-1A9ED32C9699}|Store.API\\Store.API.csproj|c:\\source-code\\p-store\\p-store\\store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81D2E4B-E920-474A-A8C0-1A9ED32C9699}|Store.API\\Store.API.csproj|solutionrelative:store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81D2E4B-E920-474A-A8C0-1A9ED32C9699}|Store.API\\Store.API.csproj|c:\\source-code\\p-store\\p-store\\store.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81D2E4B-E920-474A-A8C0-1A9ED32C9699}|Store.API\\Store.API.csproj|solutionrelative:store.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35AA7DE-B950-4E78-A335-DD3E74F92419}|Store.Application\\Store.Application.csproj|c:\\source-code\\p-store\\p-store\\store.application\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35AA7DE-B950-4E78-A335-DD3E74F92419}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9DDA93-3349-4C2B-9F2C-53E5D9586AFF}|Store.Domain\\Store.Domain.csproj|c:\\source-code\\p-store\\p-store\\store.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9DDA93-3349-4C2B-9F2C-53E5D9586AFF}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35AA7DE-B950-4E78-A335-DD3E74F92419}|Store.Application\\Store.Application.csproj|c:\\source-code\\p-store\\p-store\\store.application\\store.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A35AA7DE-B950-4E78-A335-DD3E74F92419}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\store.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Store.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Store.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:54:24.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.API\\Program.cs",
+              "RelativeDocumentMoniker": "Store.API\\Program.cs",
+              "ToolTip": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.API\\Program.cs",
+              "RelativeToolTip": "Store.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:52:11.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Store.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Store.Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:48:46.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Application\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Store.Application\\Service\\ProductService.cs",
+              "ToolTip": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Application\\Service\\ProductService.cs",
+              "RelativeToolTip": "Store.Application\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:40:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Application\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Store.Application\\IService\\IProductService.cs",
+              "ToolTip": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Application\\IService\\IProductService.cs",
+              "RelativeToolTip": "Store.Application\\IService\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:40:45.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Application\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Store.Application\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Application\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Store.Application\\IRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:40:28.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Store.Application",
+              "DocumentMoniker": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Application\\Store.Application.csproj",
+              "RelativeDocumentMoniker": "Store.Application\\Store.Application.csproj",
+              "ToolTip": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Application\\Store.Application.csproj",
+              "RelativeToolTip": "Store.Application\\Store.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T03:39:23.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Product.cs",
+              "ToolTip": "C:\\SOURCE-CODE\\p-store\\P-Store\\Store.Domain\\Product.cs",
+              "RelativeToolTip": "Store.Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:28:08.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
