@@ -1,15 +1,42 @@
-.P-Store
+# Bỏ qua thư mục node_modules và tất cả nội dung bên trong
+node_modules/
 
-# dotnet core
-bin/
-obj/
-project.lock.json
-NuGetScratch/
+# Bỏ qua tệp cấu hình địa phương (ví dụ: .env)
+.env
 
-api/wwwroot/**
-!api/wwwroot/scratch.html
-!api/wwwroot/favicon.ico
+# Bỏ qua các tệp đăng nhập hoặc chứa thông tin nhạy cảm
+*.log
+credentials.json
 
-# IDE
-.idea/
-.vs/
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+*.vsidx
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs 
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+#/BackEnd/AutoBill.API/AutoBill.API/*.json
+#/BackEnd/AutoBill.API/AutoBill.API/*.json
+#
+#/BackEnd/AutoBill.API/AutoBill.API/bin
+#/BackEnd/AutoBill.API/AutoBill.API/obj
+#/BackEnd/AutoBill.API/AutoBill.API/packages
+#/BackEnd/AutoBill.API/AutoBill.API/Release
+#/BackEnd/AutoBill.API/*.vs
+#/BackEnd/AutoBill.API/AutoBill.API/Migrations
+#/BackEnd/AutoBill.API/AutoBill.API/wwwroot/images/Bill
